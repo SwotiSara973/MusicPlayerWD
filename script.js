@@ -292,7 +292,6 @@ function showScreen(screen) {
   playlistScreen.classList.remove('active');
   favouritesScreen.classList.remove('active');
   libraryScreen.classList.remove('active');
-
   btnHome.classList.remove('active');
   btnPlaylist.classList.remove('active');
   btnFavourites.classList.remove('active');
